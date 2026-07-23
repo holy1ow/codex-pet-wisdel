@@ -1,0 +1,83 @@
+{
+  "spriteVersionNumber": 2,
+  "name": "wisdel",
+  "identity_source": "BattleFront",
+  "cell": {
+    "width": 192,
+    "height": 208
+  },
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "width": 1536,
+    "height": 2288
+  },
+  "standard_rows": [
+    {
+      "state": "idle",
+      "row_index": 0,
+      "used_frames": 6,
+      "loop": true
+    },
+    {
+      "state": "running-right",
+      "row_index": 1,
+      "used_frames": 8,
+      "loop": true
+    },
+    {
+      "state": "running-left",
+      "row_index": 2,
+      "used_frames": 8,
+      "loop": true
+    },
+    {
+      "state": "waving",
+      "row_index": 3,
+      "used_frames": 4,
+      "loop": false
+    },
+    {
+      "state": "jumping",
+      "row_index": 4,
+      "used_frames": 5,
+      "loop": false
+    },
+    {
+      "state": "failed",
+      "row_index": 5,
+      "used_frames": 8,
+      "loop": false
+    },
+    {
+      "state": "waiting",
+      "row_index": 6,
+      "used_frames": 6,
+      "loop": true
+    },
+    {
+      "state": "running",
+      "row_index": 7,
+      "used_frames": 6,
+      "loop": true
+    },
+    {
+      "state": "review",
+      "row_index": 8,
+      "used_frames": 6,
+      "loop": true
+    }
+  ],
+  "nonstandard_expression_rows": true,
+  "direction_semantics_certified": false,
+  "expression_rows": {
+    "row_9": {
+      "description": "Expression substitutions (expression-01 to expression-08), not gaze directions",
+      "frame_count": 8
+    },
+    "row_10": {
+      "description": "Expression substitutions (expression-09 to expression-16), not gaze directions",
+      "frame_count": 8
+    }
+  }
+}
