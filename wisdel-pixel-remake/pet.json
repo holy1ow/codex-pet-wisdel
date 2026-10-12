@@ -1,0 +1,7 @@
+{
+  "id": "wisdel-pixel-remake",
+  "displayName": "维什戴尔·像素重制版",
+  "description": "银发金瞳的像素重制版，包含呼吸眨眼、左右跑动、挥手、跳跃及16向注视。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
