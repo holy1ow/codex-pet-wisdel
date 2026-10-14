@@ -1,4 +1,4 @@
-# codex-pet-wisdel
+# codex-pet-wisdel(维什戴尔 Codex 桌面宠物)
 
 维什戴尔 Codex 桌面宠物。原版使用维什戴尔「绝对主角」解包素材制作，另提供两个像素版本。
 
